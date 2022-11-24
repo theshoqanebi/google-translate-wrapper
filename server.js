@@ -33,5 +33,5 @@ app.get("/v1/api/translate/", (req, res) => {
       });
 });
 
-const server = app.listen(80, () => {
+const server = app.listen(443, () => {
 });
