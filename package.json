@@ -1,0 +1,24 @@
+{
+  "name": "google-translate-wrapper",
+  "version": "1.0.0",
+  "description": "Simple google translate wrapper",
+  "main": "server.js",
+  "private": true,
+  "author": "theshoqanebi",
+  "type": "module",
+  "homepage": "https://github.com/theshoqanebi/google-translate-wrapper#readme",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theshoqanebi/google-translate-wrapper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/theshoqanebi/google-translate-wrapper/issues"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "undici": "^5.12.0"
+  }
+}
