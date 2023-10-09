@@ -86,4 +86,4 @@ If there is an internal error while making the translation request to the Google
 ```
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/theshoqanebi/google-translate-wrapper/blob/main/LICENSE) file for details.
